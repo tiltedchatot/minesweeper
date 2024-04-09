@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/tjohnso4/Documents/GitHub/minesweeper/minesweeper/Content/minesweeper.umap",
+				"C:/Users/tjohnso4/Documents/GitHub/minesweeper/minesweeper/Content/minesweeper_Level.umap",
+				"C:/Users/tjohnso4/Documents/GitHub/minesweeper/minesweeper/Content/minesweeper_L.umap",
+				"C:/Users/tjohnso4/Documents/GitHub/minesweeper/minesweeper/Content/minesweeper_BP.uasset",
+				"C:/Users/tjohnso4/Documents/GitHub/minesweeper/minesweeper/Content/minesweeper_W.uasset",
+				"C:/Users/tjohnso4/Documents/GitHub/minesweeper/minesweeper/Content/button.uasset"
+			]
+		}
+	]
+}
